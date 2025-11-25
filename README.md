@@ -1,5 +1,1 @@
-# mi-dev-resume
-
-An interactive portfolio site containing my resume and a contact form.
-
-Hosted on https://mi-dev-resume.herokuapp.com
+Software engineer specializing in backend systems, API design, and scalable architecture. Proficient in TypeScript, Go, and Python, with deep focus on runtime efficiency, memory optimization, and maintainable code. Experienced in designing secure, reliable services that scale predictably, mentoring teams, and enforcing best practices in system architecture.
